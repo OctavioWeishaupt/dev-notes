@@ -18,14 +18,15 @@ Content is written in Portuguese 🇧🇷, file names and commits in English.
 | # | Topic | Status |
 |---|---|---|
 | 01 | [Programming Logic](./01-programming-logic.md) | ✅ Completed |
-| 02 | Git & GitHub | 🔒 After certification |
-| 03 | JavaScript | 🔜 Coming next |
+| 02 | [Git & GitHub](./02-git-github.md) | ✅ Completed |
+| 03 | Linux for Developers | 🔄 In Progress |
+| 04 | JavaScript (ES6+) | 🔜 Coming next |
 
 ---
 
 ## Stack in progress
 
-`Git` → `JavaScript` → `Node.js` → `TypeScript` → `PostgreSQL`
+`Git` → `Linux` → `JavaScript` → `Node.js` → `TypeScript` → `PostgreSQL`
 
 ---
 
