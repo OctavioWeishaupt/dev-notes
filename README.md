@@ -19,8 +19,8 @@ Content is written in Portuguese 🇧🇷, file names and commits in English.
 |---|---|---|
 | 01 | [Programming Logic](./01-programming-logic.md) | ✅ Completed |
 | 02 | [Git & GitHub](./02-git-github.md) | ✅ Completed |
-| 03 | Linux for Developers | 🔄 In Progress |
-| 04 | JavaScript (ES6+) | 🔜 Coming next |
+| 03 | [Linux for Developers](./03-linux.md) | ✅ Completed |
+| 04 | JavaScript (ES6+) | 🔄 In Progress |
 
 ---
 
